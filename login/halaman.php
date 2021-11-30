@@ -11,7 +11,7 @@
 
 <body>
     <div class="container">
-        <div class="card">
+        <div class="card1">
         </div>
         <br>
         <h1>Selamat Datang</h1>

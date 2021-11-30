@@ -4,7 +4,7 @@ body {
   background: linear-gradient(100deg, #1de5e2, #8588f7);
   height: 100vh;
   overflow: hidden;
-  font-family: roboto;
+  font-family: arial;
 }
 
 .container {
@@ -12,8 +12,20 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  font-family: roboto;
 }
 
 .form-group {
   font-family: roboto;
+}
+
+.card-body {
+  font-family: roboto;
+
+}
+
+.card1 {
+  font-family: arial;
+  font-style: italic;
+  font-weight: bold;
 }

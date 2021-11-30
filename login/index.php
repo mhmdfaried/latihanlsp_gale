@@ -17,7 +17,7 @@
         <br>
         <h1>Silahkan Login</h1>
         <div class="card-body">
-            <form method="post" action="progres_login.php">
+            <form method="post" action="halaman.php">
                 <div class="form-group">
                     <label>Username : </label>
                     <input type="text" name="username" placeholder="Username Anda" required="" class="form-control">
