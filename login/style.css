@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(100deg, #1de5e2, #8588f7);
+  height: 100vh;
+  overflow: hidden;
+  font-family: roboto;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.form-group {
+  font-family: roboto;
+}
